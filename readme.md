@@ -1,8 +1,4 @@
-Here's an updated **README.md** file based on your repository's structure and the chapters/files you've listed:
-
----
-
-# Elixir in Action - Exercises & Solutions (Third Edition)
+# Elixir in Action - Implementation & Solutions (Third Edition)
 
 This repository contains all the exercises, solutions, and implementations from the book **[Elixir in Action (Third Edition) by Saša Jurić](https://www.amazon.in/Elixir-Action-Third-Sa%C5%A1a-Juric/dp/1633438511)**. Each chapter is implemented as a standalone module, with tests included.
 
